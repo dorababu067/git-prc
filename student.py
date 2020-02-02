@@ -6,4 +6,4 @@ class Student():
     def update(self):
         return "student update feature is updated"
     def delete(self):
-        pass
+        return "student delete feature is updated"
