@@ -4,6 +4,6 @@ class Student():
     def retrive(self):
         return "student retrive feature is updated"
     def update(self):
-        pass
+        return "student update feature is updated"
     def delete(self):
         pass
