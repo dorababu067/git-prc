@@ -7,3 +7,4 @@ class Student():
         return "student update feature is updated"
     def delete(self):
         return "student delete feature is updated"
+print("application is completed")
