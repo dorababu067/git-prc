@@ -1,6 +1,6 @@
 class Student():
     def create(self):
-        pass
+        return "Student feature is created."
     def retrive(self):
         pass
     def update(self):
